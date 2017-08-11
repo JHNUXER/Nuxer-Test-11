@@ -1,1 +1,3 @@
-public class BasicBlock_A extends BasicBlock {}
+public class BasicBlock_A extends BasicBlock {
+  
+}
